@@ -1,6 +1,6 @@
 # Pixel-level Spatio-Temporal Memory
 
-This repository is a temporary implementation of the paper [Memory Network with Pixel-level Spatio-Temporal Learning for Visual Object Tracking]
+This repository is a temporary implementation of the paper [Memory Network with Pixel-level Spatio-Temporal Learning for Visual Object Tracking].
 
 The code will release soon after the acceptance of paper.
 
